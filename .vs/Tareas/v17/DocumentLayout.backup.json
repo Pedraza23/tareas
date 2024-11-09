@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\entidades\\clusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\entidades\\clusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign-in.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\sign-in.css",
+              "RelativeDocumentMoniker": "Tareas\\sign-in.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\sign-in.css",
+              "RelativeToolTip": "Tareas\\sign-in.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T03:02:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Tareas\\index.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx.designer.cs",
+              "RelativeToolTip": "Tareas\\index.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:52:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clTarea.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clTarea.cs",
+              "RelativeDocumentMoniker": "Tareas\\entidades\\clTarea.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clTarea.cs",
+              "RelativeToolTip": "Tareas\\entidades\\clTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:33:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clUsuario.cs",
+              "RelativeDocumentMoniker": "Tareas\\entidades\\clUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clUsuario.cs",
+              "RelativeToolTip": "Tareas\\entidades\\clUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:32:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clConexion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\datos\\clConexion.cs",
+              "RelativeDocumentMoniker": "Tareas\\datos\\clConexion.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\datos\\clConexion.cs",
+              "RelativeToolTip": "Tareas\\datos\\clConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:28:46.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx",
+              "RelativeDocumentMoniker": "Tareas\\index.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx",
+              "RelativeToolTip": "Tareas\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-03T02:25:40.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
