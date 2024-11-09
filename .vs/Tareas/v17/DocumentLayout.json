@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Tareas\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\gitproyecto\\tareas\\tareas\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\gitproyecto\\tareas\\tareas\\vista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\vista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\gitproyecto\\tareas\\tareas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\gitproyecto\\tareas\\tareas\\logica\\clingresarl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\logica\\clingresarl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\gitproyecto\\tareas\\tareas\\datos\\clingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\datos\\clingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\entidades\\clusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\tareas\\entidades\\clusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\entidades\\clusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|c:\\users\\dell\\source\\repos\\tareas\\tareas\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\sign-in.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\entidades\\cltarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\tareas\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B023E473-18ED-407B-9FAE-C9CBB17276E1}|Tareas\\Tareas.csproj|solutionrelative:tareas\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,23 +59,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sign-in.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\sign-in.css",
-              "RelativeDocumentMoniker": "Tareas\\sign-in.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\sign-in.css",
-              "RelativeToolTip": "Tareas\\sign-in.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-03T03:02:28.513Z",
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\vista\\inicio.aspx",
+              "RelativeDocumentMoniker": "Tareas\\vista\\inicio.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\vista\\inicio.aspx",
+              "RelativeToolTip": "Tareas\\vista\\inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T17:58:05.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "clIngresarL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\logica\\clIngresarL.cs",
+              "RelativeDocumentMoniker": "Tareas\\logica\\clIngresarL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\logica\\clIngresarL.cs",
+              "RelativeToolTip": "Tareas\\logica\\clIngresarL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:54:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx.cs",
+              "RelativeDocumentMoniker": "Tareas\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx.cs",
+              "RelativeToolTip": "Tareas\\index.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:52:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clIngresar.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\datos\\clIngresar.cs",
+              "RelativeDocumentMoniker": "Tareas\\datos\\clIngresar.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\datos\\clIngresar.cs",
+              "RelativeToolTip": "Tareas\\datos\\clIngresar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:36:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sign-in.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\sign-in.css",
+              "RelativeDocumentMoniker": "Tareas\\sign-in.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\sign-in.css",
+              "RelativeToolTip": "Tareas\\sign-in.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T03:02:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "index.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx.designer.cs",
               "RelativeDocumentMoniker": "Tareas\\index.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx.designer.cs",
               "RelativeToolTip": "Tareas\\index.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,50 +135,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "clTarea.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clTarea.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\entidades\\clTarea.cs",
               "RelativeDocumentMoniker": "Tareas\\entidades\\clTarea.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clTarea.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\entidades\\clTarea.cs",
               "RelativeToolTip": "Tareas\\entidades\\clTarea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T02:33:42.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T02:33:42.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "clUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\entidades\\clUsuario.cs",
               "RelativeDocumentMoniker": "Tareas\\entidades\\clUsuario.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\entidades\\clUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\entidades\\clUsuario.cs",
               "RelativeToolTip": "Tareas\\entidades\\clUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T02:32:34.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "clConexion.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\datos\\clConexion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\datos\\clConexion.cs",
               "RelativeDocumentMoniker": "Tareas\\datos\\clConexion.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\datos\\clConexion.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\datos\\clConexion.cs",
               "RelativeToolTip": "Tareas\\datos\\clConexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T02:28:46.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T02:28:46.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.aspx",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx",
               "RelativeDocumentMoniker": "Tareas\\index.aspx",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Tareas\\Tareas\\index.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\gitProyecto\\tareas\\Tareas\\index.aspx",
               "RelativeToolTip": "Tareas\\index.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
