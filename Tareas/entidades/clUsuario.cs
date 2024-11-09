@@ -12,5 +12,6 @@ namespace Tareas.entidades
         public string apellido { get; set; }
         public string email { get; set; }
         public string contraseña { get; set; }
+        
     }
 }

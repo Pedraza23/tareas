@@ -69,10 +69,12 @@
   <ItemGroup>
     <Content Include="index.aspx" />
     <Content Include="sign-in.css" />
+    <Content Include="vista\inicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="datos\clConexion.cs" />
+    <Compile Include="datos\clIngresar.cs" />
     <Compile Include="entidades\clTarea.cs" />
     <Compile Include="entidades\clUsuario.cs" />
     <Compile Include="index.aspx.cs">
@@ -82,7 +84,15 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="logica\clIngresarL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vista\inicio.aspx.cs">
+      <DependentUpon>inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vista\inicio.aspx.designer.cs">
+      <DependentUpon>inicio.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -93,10 +103,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="logica\" />
-    <Folder Include="vista\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
